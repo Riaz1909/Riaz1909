@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Riaz Mohammad</span></h1>
 <h3 align="center">🚀 A passionate AI & ML Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riaz1909&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riaz1909&theme=radical" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🔭 Currently Working On:
@@ -32,7 +22,7 @@
 
 ## 🌐 Connect with Me:
 <p>
-  <a href="https://linkedin.com/in/RIAZ MOHD" target="blank">
+  <a href="https://www.linkedin.com/feed/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://instagram.com/riaz.1909" target="blank">
@@ -73,7 +63,7 @@
 
 ## 📜 Certificates:
 Here are some of my achievements and certifications:
-- 🏅 [Machine Learning - Coursera](#)
+- 🏅 [Cpde,Design and play](cert1)
 - 🥇 [Python for Data Science - IBM](#)
 - 💻 [Web Development Bootcamp - Udemy](#)
 - 🎓 [AI Programming - Google AI](#)
