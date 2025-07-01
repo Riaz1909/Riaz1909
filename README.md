@@ -64,11 +64,10 @@
 ## 📜 Certificates:
 Here are some of my achievements and certifications:
 - 🏅 [Cpde,Design and play](cert1.png)
-- 🥇 [Python for Data Science - IBM](#)
-- 💻 [Web Development Bootcamp - Udemy](#)
-- 🎓 [AI Programming - Google AI](#)
-
-> *(Replace `#` with actual certificate URLs or file links)*
+- 🥇 [Cyber Awareness](cert2.png)
+- 💻 [Snap Chat AR Lences](cert3.png)
+- 🎓 [Design Innovation And Thinking](cert4.png)
+- 🎓 [Generative Ai Model](cert6.png)
 
 ---
 
