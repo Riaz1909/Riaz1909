@@ -63,7 +63,7 @@
 
 ## 📜 Certificates:
 Here are some of my achievements and certifications:
-- 🏅 [Cpde,Design and play](cert1)
+- 🏅 [Cpde,Design and play](cert1.png)
 - 🥇 [Python for Data Science - IBM](#)
 - 💻 [Web Development Bootcamp - Udemy](#)
 - 🎓 [AI Programming - Google AI](#)
