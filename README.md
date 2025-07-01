@@ -51,15 +51,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riaz1909&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riaz1909&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riaz1909" alt="Streak Stats" />
-</p>
-
----
 
 ## 📜 Certificates:
 Here are some of my achievements and certifications:
