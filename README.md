@@ -1,31 +1,85 @@
-<h1 align="center">Hi 👋, I'm Riaz Mohammad</h1>
-<h3 align="center">A passionate AI&ML Developer from India</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Riaz Mohammad</span></h1>
+<h3 align="center">🚀 A passionate AI & ML Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riaz1909&label=Profile%20views&color=0e75b6&style=flat" alt="riaz1909" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riaz1909" alt="riaz1909" /></a> </p>
-
-- 🔭 I’m currently working on **Chat App**
-
-- 🌱 I’m currently learning **Front-End Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Riaz1909?tab=repositories](https://github.com/Riaz1909?tab=repositories)
-
-- 💬 Ask me about **Myself**
-
-- 📫 How to reach me **riazmohd98769@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/riaz mohd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riaz mohd" height="30" width="40" /></a>
-<a href="https://instagram.com/riaz1909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riaz1909" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riaz1909&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=riaz1909&theme=radical" alt="Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riaz1909&show_icons=true&locale=en&layout=compact" alt="riaz1909" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riaz1909&show_icons=true&locale=en" alt="riaz1909" /></p>
+### 🔭 Currently Working On:
+- A real-time **Chat App** using modern tech stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riaz1909&" alt="riaz1909" /></p>
+### 🌱 Currently Learning:
+- **Front-End Web Development** (React, Tailwind, Next.js)
+
+### 👨‍💻 Projects:
+- You can find all my work here: [My GitHub Repositories](https://github.com/Riaz1909?tab=repositories)
+
+### 💬 Ask Me About:
+- Anything related to **AI, ML, Web Dev, or Myself** 😊
+
+### 📫 Reach Me:
+- 📧 Email: **riazmohd98769@gmail.com**
+
+---
+
+## 🌐 Connect with Me:
+<p>
+  <a href="https://linkedin.com/in/RIAZ MOHD" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://instagram.com/riaz.1909" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" />
+</p>
+
+---
+
+## 🏆 GitHub Stats:
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riaz1909&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riaz1909&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riaz1909" alt="Streak Stats" />
+</p>
+
+---
+
+## 📜 Certificates:
+Here are some of my achievements and certifications:
+- 🏅 [Machine Learning - Coursera](#)
+- 🥇 [Python for Data Science - IBM](#)
+- 💻 [Web Development Bootcamp - Udemy](#)
+- 🎓 [AI Programming - Google AI](#)
+
+> *(Replace `#` with actual certificate URLs or file links)*
+
+---
+
+> Designed with ❤️ by Riaz Mohammad
