@@ -69,7 +69,9 @@ Here are some of my achievements and certifications:
 - 💻 [Snap Chat AR Lences](cert3.png)  
 - 🎓 [Design Innovation And Thinking](cert4.png)  
 - 🎓 [Generative Ai Model](cert6.png)  
-- 🎓 [FullStack Web Development BootCamp](cert7.jpg)  
+- 🎓 [FullStack Web Development BootCamp](cert7.jpg)
+- 🎓 [AWS Certified Cloud Pracitioner Exam](cert8.jpg)  
+---
 ---
 
 > Designed with ❤️ by Riaz Mohammad
