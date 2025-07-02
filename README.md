@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Riaz Mohammad</span></h1>
 <h3 align="center">🚀 A passionate AI & ML Developer from India</h3>
+<h3 align="center">🏫 Student In Manav Rachna Internation Institute Of Research And Studies</h3>
 
 ---
 
